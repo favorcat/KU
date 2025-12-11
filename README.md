@@ -13,7 +13,7 @@
 - [BRI519 뇌공학프로그래밍입문 final](https://github.com/favorcat/BRI519-final)
 
 ### 2025-1
-- [XAI613](https://github.com/favorcat/XAI613)
+- [XAI613 강화학습](https://github.com/favorcat/XAI613)
 
 
 ---
